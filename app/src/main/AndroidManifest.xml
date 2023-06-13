@@ -23,5 +23,4 @@
         <activity android:name=".DetailActivity" />
     </application>
 
-<!--    Copyright to Aqil Rahmatullah (2110817310012) -->
 </manifest>
